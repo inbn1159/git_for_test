@@ -24,6 +24,7 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 		
 		String commit_i = "asdf";
+		String commit_2 = "zxcv";
 
 		
 		return "home";
